@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+		"country": "Bangladesh",
+		"particlePollution": "83.3000",
+		"pop2022": "167885.6890"
+	},
+	{
+		"id": 2,
+		"country": "Pakistan",
+		"particlePollution": "65.8100",
+		"pop2022": "229488.9940"
+	},
+	{
+		"id": 3,
+		"country": "Mongolia",
+		"particlePollution": "62",
+		"pop2022": "3378.0780"
+	},
+	{
+		"id": 4,
+		"country": "Afghanistan",
+		"particlePollution": "58.8000",
+		"pop2022": "40754.3880"
+	},
+	{
+		"id": 5,
+		"country": "India",
+		"particlePollution": "58.0800",
+		"pop2022": "1406631.7760"
+	},
+	{
+		"id": 6,
+		"country": "Indonesia",
+		"particlePollution": "51.7100",
+		"pop2022": "279134.5050"
+	},
+	{
+		"id": 7,
+		"country": "Bahrain",
+		"particlePollution": "46.8000",
+		"pop2022": "1783.9830"
+	},
+	{
+		"id": 8,
+		"country": "Nepal",
+		"particlePollution": "44.4600",
+		"pop2022": "30225.5820"
+	},
+	{
+		"id": 9,
+		"country": "Uzbekistan",
+		"particlePollution": "41.2000",
+		"pop2022": "34382.0840"
+	},
+	{
+		"id": 10,
+		"country": "Iraq",
+		"particlePollution": "39.6000",
+		"pop2022": "42164.9650"
+	},
+	{
+		"id": 11,
+		"country": "China",
+		"particlePollution": "39.1200",
+		"pop2022": "1448471.4000"
+	},
+	{
+		"id": 12,
+		"country": "United Arab Emirates",
+		"particlePollution": "38.9400",
+		"pop2022": "10081.7850"
+	},
+	{
+		"id": 13,
+		"country": "Kuwait",
+		"particlePollution": "38.3000",
+		"pop2022": "4380.3260"
+	},
+	{
+		"id": 14,
+		"country": "Bosnia and Herzegovina",
+		"particlePollution": "34.5800",
+		"pop2022": "3249.3170"
+	},
+	{
+		"id": 15,
+		"country": "Vietnam",
+		"particlePollution": "34.0600",
+		"pop2022": "98953.5410"
+	}
+]
